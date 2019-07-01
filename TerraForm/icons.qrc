@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/island.png</file>
+        <file>icons/lake.png</file>
+        <file>icons/bridge.png</file>
+        <file>icons/broadleaf-forest.png</file>
+        <file>icons/chasm.png</file>
+        <file>icons/conifer-forest.png</file>
+        <file>icons/desert.png</file>
+        <file>icons/lush-grass.png</file>
+        <file>icons/plateau.png</file>
+        <file>icons/significant-rock.png</file>
+        <file>icons/single-tree.png</file>
+        <file>icons/wheat-field.png</file>
+        <file>icons/river.png</file>
+        <file>icons/clamp.svg</file>
+        <file>icons/sine-wave.svg</file>
+        <file>icons/delete-forever.svg</file>
+        <file>icons/menu-down.svg</file>
+        <file>icons/menu-up.svg</file>
+        <file>icons/polynomial.svg</file>
+    </qresource>
+</RCC>
